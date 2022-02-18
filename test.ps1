@@ -1,1 +1,4 @@
-whoami
+function shell()
+{
+  Write-Host $(whoami);
+}
